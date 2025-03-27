@@ -10,8 +10,6 @@
 
 #### 2) 컴퓨터의 4가지 핵심 부품
 
-<img src="https://velog.velcdn.com/images/eunoia73/post/6037f1f0-8ae9-494c-b2ce-148feb050014/image.png" width="80%" height="80%">
-
 > 1. **CPU(중앙처리장치)** : 메모리에 저장된 명령어를 읽고 해석하고 실행하는 부품<br>
      - ALU(산술논리연산장치) : 계산기 <br>
      - 레지스터 : CPU 내부의 작은 임시 저장 장치 <br>
@@ -31,9 +29,6 @@ CPU, 메모리, 보조기억장치, 입출력장치는 모두 `메인보드`에 
 
 `시스템버스` : 4가지 부품이 서로 정보를 주고받는 통로
 - 주소버스, 데이터버스, 제어버스가 있음
-
-<img src="https://velog.velcdn.com/images/eunoia73/post/d6f97453-49a7-4fab-925b-3fb2d35630b0/image.png" width="80%" height="80%">
-
 
 <hr>
 [혼자 공부하는 컴퓨터구조 + 운영체제] 책을 읽고 정리한 기록입니다.
